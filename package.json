@@ -1,0 +1,20 @@
+{
+  "name": "ascii-modifiers-map",
+  "version": "1.0.0",
+  "description": "Simple mapping of some sans-serif MathML characters to their plain counterparts",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doesdev/ascii-modifiers-map.git"
+  },
+  "author": "Andrew Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doesdev/ascii-modifiers-map/issues"
+  },
+  "homepage": "https://github.com/doesdev/ascii-modifiers-map#readme"
+}
